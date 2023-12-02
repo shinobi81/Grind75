@@ -1,7 +1,7 @@
 # Grind75
 
 Solutions of 93 LeetCode problems listed in
-Grind75 ([93 quesstions](https://www.techinterviewhandbook.org/grind75?weeks=16&hours=5))
+Grind75 ([93 questions](https://www.techinterviewhandbook.org/grind75?weeks=16&hours=5))
 
 | Level | Question                                          |      Solution      |        Test        |
 |-------|---------------------------------------------------|:------------------:|:------------------:|
